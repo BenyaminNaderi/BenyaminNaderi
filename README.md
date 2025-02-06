@@ -15,7 +15,7 @@
 ## 💻 Skills:
 - **Frontend**: HTML, CSS, JavaScript, React, Next.js, Bootstrap
 - **Backend**: Node.js
-- **Tools**: Git, GitHub, VS Code, Figma
+- **Tools**: Git, GitHub, VS Code
 
 ## 📊 GitHub Stats:
 <p align="center">
