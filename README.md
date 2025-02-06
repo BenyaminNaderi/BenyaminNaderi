@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benyamin Nadari</h1>
-<h3 align="center">A passionate Frontend Developer | Backend with Next.js | Handball Player from Iran</h3>
+<h3 align="center">A passionate Frontend Developer | Handball Player from Iran</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=benyamin&label=Profile%20Views&color=0e75b6&style=flat" alt="benyamin" />
@@ -15,7 +15,7 @@
 ## 💻 Skills:
 - **Frontend**: HTML, CSS, JavaScript, React, Next.js, Bootstrap
 - **Backend**: Node.js
-- **Tools**: Git, GitHub, VS Code, Figma
+- **Tools**: Git, GitHub, VS Code
 
 ## 📊 GitHub Stats:
 <p align="center">
