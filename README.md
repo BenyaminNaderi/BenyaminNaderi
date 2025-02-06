@@ -14,17 +14,12 @@
 
 ## 💻 Skills:
 - **Frontend**: HTML, CSS, JavaScript, React, Next.js, Bootstrap
-- **Backend**: Node.js, MongoDB
+- **Backend**: Node.js
 - **Tools**: Git, GitHub, VS Code, Figma
 
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=benyamin&show_icons=true&hide_title=true&theme=radical" alt="benyamin" />
-</p>
-
-## 🔥 GitHub Streak:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benyamin&theme=radical" alt="streak" />
 </p>
 
 ## 🛠 Languages and Tools:
@@ -41,26 +36,15 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
 </p>
-
-## 🌱 I’m currently learning:
-- Deepening my knowledge of **Full-Stack development**.
-- Exploring **Web3** and **Blockchain development**.
 
 ## 🎯 I’m currently working on:
 - Building a **portfolio website** to showcase my work and projects.
-- Working on **personal projects** using **Next.js** and **MongoDB**.
+- Working on **personal projects** using **Next.js**.
 
 ## 🤝 I’m open to:
 - Collaborations on open-source projects.
 - Remote work opportunities.
-
-## 📅 Upcoming projects:
-- Creating a **Handball tracking app** for athletes.
-- Developing a **Personal Finance web app**.
 
 ## 🔗 Connect with me:
 <p align="left">
@@ -71,4 +55,3 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40"/>
   </a>
 </p>
-
