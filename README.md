@@ -9,14 +9,15 @@
 - 🎯 I’m a **Frontend Developer** with a strong background in **Next.js** for Backend development.
 - 🏅 Passionate **Handball Player** and athlete who thrives on discipline and teamwork.
 - 🔧 Currently focused on building dynamic web applications and improving my skills in full-stack development.
-- 💬 Let's talk about **JavaScript, React, Next.js, MongoDB**, or anything tech-related!
+- 🌍 **Open to remote work** opportunities in web development and software engineering.
+- 💬 Let's talk about **JavaScript, React, Next.js**, or anything tech-related!
 
 ## 🌍 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/benyamin-nadari" target="blank">
+  <a href="https://www.linkedin.com/in/benyamin-naderi-60959834b" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/LinkedIn_Logo_2023.png" alt="benyamin" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/ibeny_24" target="blank">
+  <a href="https://www.instagram.com/ibeny_24/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibeny_24" height="30" width="40" />
   </a>
 </p>
@@ -28,9 +29,6 @@
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -55,10 +53,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benyamin&layout=compact&theme=radical" alt="benyamin" />
 </p>
-
-## 💥 GitHub Activity Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=benyamin&theme=react-dark" alt="benyamin" />
-</p>
-
----
